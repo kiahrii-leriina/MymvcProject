@@ -1,0 +1,12 @@
+# Ignore target directory
+target/
+
+# Ignore IDE settings
+.settings/
+.project
+.classpath
+.mvn/
+
+
+# Ignore other unnecessary files
+*.log
